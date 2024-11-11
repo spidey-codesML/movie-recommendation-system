@@ -1,4 +1,6 @@
-Hello github user, I am Navin prasath a Data science undergrad @SASTRA university passionate in the fields of machine learning , LLMs , gen AI. LinkedIn Id: (https://www.linkedin.com/in/navin-prasath-kalaiselvan-244a43323?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQBOFc9K2QNifSXORTAlg%2BA%3D%3D). This is my first mini-project in my ml career , a 'Movie Recommendation System' , this code is a duo work of me and my friend.
+Hello, I am a 2nd year Data science undergrad from a tier 1 university. YOu can see all of my professional informations from my linkedin account.
+
+LinkedIn Id: [Navin Prasath Kalaiselvan](https://www.linkedin.com/in/navin-prasath-kalaiselvan-244a43323?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmBM4rww7SouLZ5oYia3rbg%3D%3D)
 
 The code takes a movie name as input and returns 30 similar movies as output. Libraries used in the code are numpy , pandas , scikit learn and difflib. It takes 'genres','keywords','tagline','cast' and 'director'as the features or parameters to recommend similar movies by vectorizing all the parameters by Tfidfvectorizer.
 
